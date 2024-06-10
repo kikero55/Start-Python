@@ -1,2 +1,2 @@
-"Pablo"
-Nombre:
+nombre="pablo"
+print(nombre)
